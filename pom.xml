@@ -90,11 +90,11 @@
             </deployables>
             <configuration>
               <properties>
-                <!-- SNIP -->
-<!--                <cargo.servlet.port>8080</cargo.servlet.port>-->
-<!--                <cargo.rmi.port>9205</cargo.rmi.port>-->
-<!--                <cargo.tomcat.ajp.port>8080</cargo.tomcat.ajp.port>-->
-                <!-- SNIP -->
+
+                <cargo.servlet.port>8085</cargo.servlet.port>
+                <cargo.rmi.port>9205</cargo.rmi.port>
+                <cargo.tomcat.ajp.port>8085</cargo.tomcat.ajp.port>
+
               </properties>
             </configuration>
             <!-- SNIP -->
