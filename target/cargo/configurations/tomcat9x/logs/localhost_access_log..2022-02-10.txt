@@ -1,0 +1,14 @@
+127.0.0.1 - - [10/Feb/2022:03:11:28 +0530] "GET /cargocpc/index.html HTTP/1.1" 200 124
+0:0:0:0:0:0:0:1 - - [10/Feb/2022:03:11:44 +0530] "POST /manager/html/start;jsessionid=45D79C4C167B3DEBA33C4F1B3FE588B2?path=/jenkins&org.apache.catalina.filters.CSRF_NONCE=1282DC67BA85AD0CA49DBC120BA9D72F HTTP/1.1" 401 2562
+0:0:0:0:0:0:0:1 - - [10/Feb/2022:03:11:45 +0530] "POST /manager/html/start;jsessionid=45D79C4C167B3DEBA33C4F1B3FE588B2?path=/jenkins&org.apache.catalina.filters.CSRF_NONCE=1282DC67BA85AD0CA49DBC120BA9D72F HTTP/1.1" 401 2562
+0:0:0:0:0:0:0:1 - - [10/Feb/2022:03:11:47 +0530] "POST /manager/html/start;jsessionid=45D79C4C167B3DEBA33C4F1B3FE588B2?path=/jenkins&org.apache.catalina.filters.CSRF_NONCE=1282DC67BA85AD0CA49DBC120BA9D72F HTTP/1.1" 401 2562
+0:0:0:0:0:0:0:1 - - [10/Feb/2022:03:11:47 +0530] "POST /manager/html/start;jsessionid=45D79C4C167B3DEBA33C4F1B3FE588B2?path=/jenkins&org.apache.catalina.filters.CSRF_NONCE=1282DC67BA85AD0CA49DBC120BA9D72F HTTP/1.1" 401 2562
+0:0:0:0:0:0:0:1 - - [10/Feb/2022:03:11:48 +0530] "POST /manager/html/start;jsessionid=45D79C4C167B3DEBA33C4F1B3FE588B2?path=/jenkins&org.apache.catalina.filters.CSRF_NONCE=1282DC67BA85AD0CA49DBC120BA9D72F HTTP/1.1" 401 2562
+0:0:0:0:0:0:0:1 - - [10/Feb/2022:03:11:50 +0530] "GET /jenkins/job/SeleniumScript/ HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [10/Feb/2022:03:11:59 +0530] "GET / HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [10/Feb/2022:03:12:28 +0530] "GET /jenkins/ HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [10/Feb/2022:03:12:51 +0530] "GET / HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [10/Feb/2022:03:13:06 +0530] "GET /manager/html HTTP/1.1" 401 2562
+0:0:0:0:0:0:0:1 - - [10/Feb/2022:03:13:07 +0530] "GET /manager/html HTTP/1.1" 401 2562
+0:0:0:0:0:0:0:1 - - [10/Feb/2022:03:13:08 +0530] "GET /manager/html HTTP/1.1" 401 2562
+0:0:0:0:0:0:0:1 - - [10/Feb/2022:03:14:56 +0530] "GET /manager/html HTTP/1.1" 401 2562
